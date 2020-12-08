@@ -154,6 +154,7 @@ h1
   h2
   {
     font-size: 1.5rem;
+  }
 #title
 {
   text-align: center;
@@ -162,3 +163,8 @@ h1
   {
     font-size: 2rem;
 }
+  #testimonials
+  {
+    font-size: 2rem;
+  }
+}   
