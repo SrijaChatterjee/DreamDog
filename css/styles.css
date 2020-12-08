@@ -151,10 +151,7 @@ h1
   position: static;
   transform: rotate(0);
 }
-  h2
-  {
-    font-size: 1.5rem;
-  }
+  
 #title
 {
   text-align: center;
@@ -163,7 +160,7 @@ h1
   {
     font-size: 2rem;
 }
-  .testimonial-text
+  .testimonial-text h2
   {
     font-size: 1.5rem;
   }
